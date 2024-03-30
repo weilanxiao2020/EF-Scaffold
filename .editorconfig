@@ -16,6 +16,7 @@ ij_any_line_comment_at_first_column = false
 indent_size = 2
 tab_width = 2
 ktlint_code_style = ktlint_official
+ij_kotlin_allow_trailing_comma = false
 
 [*.xml]
 indent_size = 2
